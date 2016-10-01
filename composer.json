@@ -10,7 +10,12 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "oktopost/skeleton": "^1.0",
+        "oktopost/skeleton": "dev-master#85fbe4a32561d7b571c0e2b276f6a008fd50131f",
         "oktopost/objection": "^1.0"
-    }
+    },
+	"autoload": {
+		"psr-0": {
+			"HttpBean": "src"
+		}
+	}
 }
