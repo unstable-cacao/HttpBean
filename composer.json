@@ -1,0 +1,16 @@
+{
+    "name": "unstable-cacao/http-bean",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Puchkov",
+            "email": "alexey@oktopost.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "oktopost/skeleton": "^1.0",
+        "oktopost/objection": "^1.0"
+    }
+}
